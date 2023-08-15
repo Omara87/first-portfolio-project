@@ -19,6 +19,10 @@ header {
     background-color: red;
 }
 
+h1 {
+    font-family: CrimsonTree, serif;
+}
+
 /* Main Content */
 main {
     background-color: aqua;
