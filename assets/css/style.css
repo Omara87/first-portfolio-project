@@ -81,12 +81,29 @@ nav {
 
 /* Main content */
 main {
-    background-color: #c56e3a;
     flex: 1 0 auto;
     margin-top: 47px;
 }
 
 /* Footer */
+footer {
+    background-color: #efc177;
+}
+
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    letter-spacing: 2px;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #54442a;
+}
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
@@ -103,7 +120,7 @@ main {
         display: flex;
     }
 
-    #menu > li {
+    #menu>li {
         padding-left: 1rem;
     }
 
