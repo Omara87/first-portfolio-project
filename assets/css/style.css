@@ -1,4 +1,4 @@
-/*Asterisk wildard selector to override default styles added by the browser */
+/*Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
     margin: 0;
@@ -10,7 +10,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: #3a3a3a;
+    color: #362b24;
     font-family: Figtree, sans-serif;
 }
 
@@ -24,8 +24,30 @@ header {
     box-shadow: 0 5px 5px #553b2c
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
 h1 {
     font-family: CrimsonTree, serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #543a2a;
+}
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 2px;
+    list-style-type: none;
+}
+
+#menu>li {
+    margin-bottom: 0.5em;
+}
+
+.active {
+    border-bottom: 1px solid #362b24;
 }
 
 /* Main Content */
