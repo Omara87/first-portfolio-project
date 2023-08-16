@@ -85,6 +85,13 @@ main {
     margin-top: 47px;
 }
 
+/* Hero section */
+#hero {
+    height: 650px;
+    width: 100%;
+    background: url(../images/Medici\ Chapel.webp) no-repeat center center/cover;
+}
+
 /* Footer */
 footer {
     background-color: #efc177;
@@ -104,9 +111,8 @@ footer div {
 }
 
 #social-networks {
-    text-align: center;
-    padding: 10px;
-    display: flex;
+    padding: 1em;
+    display: inline-flex;
     list-style-type: none;
 }
 
