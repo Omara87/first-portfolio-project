@@ -96,7 +96,6 @@ main {
 #timeline {
     padding: 2%;
     margin: 5px;
-    border: 5px;
 }
 
 h2 {
@@ -110,6 +109,24 @@ div>h2 {
     padding: 2px;
     width: 350px;
     margin: auto;
+}
+
+/* The vertical ruler */
+.timeline {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.timeline::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: #c59038;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-right: -3px;
 }
 
 /* Footer */
