@@ -92,6 +92,26 @@ main {
     background: url(../images/Medici\ Chapel.webp) no-repeat center center/cover;
 }
 
+/* The Timeline Section */
+#timeline {
+    padding: 2%;
+    margin: 5px;
+    border: 5px;
+}
+
+h2 {
+    font-size: 23px;
+    color: #553b2c;
+}
+
+div>h2 {
+    text-align: center;
+    border: solid 5px #c59038;
+    padding: 2px;
+    width: 350px;
+    margin: auto;
+}
+
 /* Footer */
 footer {
     background-color: #efc177;
