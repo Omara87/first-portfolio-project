@@ -121,7 +121,7 @@ div>h2 {
     position: relative;
     max-width: 1200px;
     margin: 0 auto;
-    background-color: #ffffea;
+    background-color: #ffd995;
 }
 
 .timeline::after {
@@ -137,7 +137,7 @@ div>h2 {
 
 /* Container around content */
 .container {
-    padding: 10px 40px;
+    padding: 10px 25px;
     position: relative;
     background-color: inherit;
     width: 50%;
@@ -159,7 +159,7 @@ div>h2 {
     z-index: 1;
 }
 
-/* Align the containers and add arrows */
+/* Align the containers and add fixed arrows */
 .left {
     left: 0;
 }
@@ -172,26 +172,38 @@ div>h2 {
     content: '';
     height: 0;
     position: absolute;
-    top: 22px;
+    top: 17px;
     width: 0;
     z-index: 1;
-    right: 30px;
-    border: medium solid white;
+    right: 16px;
+    border: medium solid #ffffea;
     border-width: 10px 0 10px 10px;
-    border-color: transparent transparent transparent white;
+    border-color: transparent transparent transparent #ffffea;
 }
 
 .right::before {
     content: '';
     height: 0;
     position: absolute;
-    top: 22px;
+    top: 17px;
     width: 0;
     z-index: 1;
-    left: 30px;
-    border: medium solid white;
+    left: 16px;
+    border: medium solid #ffffea;
     border-width: 10px 10px 10px 0;
-    border-color: transparent white transparent transparent;
+    border-color: transparent #ffffea transparent transparent;
+}
+
+.right::after {
+    left: -8px;
+}
+
+/* The actual content */
+.content {
+    padding: 5px;
+    background-color: #ffffea;
+    position: relative;
+    border-radius: 6px;
 }
 
 /* Footer */
