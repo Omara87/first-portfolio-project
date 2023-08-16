@@ -111,6 +111,11 @@ div>h2 {
     margin: auto;
 }
 
+.timeline>h3 {
+    font-size: 18px;
+    color: #553b2c;
+}
+
 /* The vertical ruler */
 .timeline {
     position: relative;
@@ -137,6 +142,7 @@ div>h2 {
     background-color: inherit;
     width: 50%;
     font-size: 14px;
+    color: #553b2c;
 }
 
 /* The circles on the timeline */
@@ -151,6 +157,41 @@ div>h2 {
     top: 15px;
     border-radius: 50%;
     z-index: 1;
+}
+
+/* Align the containers and add arrows */
+.left {
+    left: 0;
+}
+
+.right {
+    left: 50%;
+}
+
+.left::before {
+    content: '';
+    height: 0;
+    position: absolute;
+    top: 22px;
+    width: 0;
+    z-index: 1;
+    right: 30px;
+    border: medium solid white;
+    border-width: 10px 0 10px 10px;
+    border-color: transparent transparent transparent white;
+}
+
+.right::before {
+    content: '';
+    height: 0;
+    position: absolute;
+    top: 22px;
+    width: 0;
+    z-index: 1;
+    left: 30px;
+    border: medium solid white;
+    border-width: 10px 10px 10px 0;
+    border-color: transparent white transparent transparent;
 }
 
 /* Footer */
