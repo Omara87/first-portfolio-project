@@ -14,6 +14,20 @@ body {
     font-family: Figtree, sans-serif;
 }
 
+h1 {
+    font-family: CrimsonTree, serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #543a2a;
+    font-size: 175%;
+}
+
+h2 {
+    font-size: 23px;
+    color: #553b2c;
+    text-align: center;
+}
+
 /* Header */
 header {
     background-color: #ffd3ba;
@@ -30,14 +44,6 @@ header {
 header a {
     text-decoration: none;
     color: inherit;
-}
-
-h1 {
-    font-family: CrimsonTree, serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #543a2a;
-    font-size: 175%;
 }
 
 #menu {
@@ -96,11 +102,6 @@ main {
 #timeline {
     padding: 5px;
     margin: 5px;
-}
-
-h2 {
-    font-size: 23px;
-    color: #553b2c;
 }
 
 div>h2 {
