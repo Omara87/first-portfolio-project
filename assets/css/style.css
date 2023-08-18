@@ -228,11 +228,11 @@ div>h2 {
 
 #youth ul {
     font-size: 12px;
-    font-style: italic;
     padding: 5px;
     list-style-type: none;
     text-align: justify;
     margin: 0 1rem;
+    line-height: 1rem;
 }
 
 /* Creating the bullet points list */
@@ -242,11 +242,11 @@ div>h2 {
 
 #leader ul {
     font-size: 12px;
-    font-style: italic;
     padding: 5px;
     list-style-type: circle solid;
     text-align: justify;
     margin: 0 1rem;
+    line-height: 1rem;
 }
 
 /* Footer */
@@ -315,5 +315,32 @@ footer div {
 
     #menu a:hover {
         background-color: #fffff0;
+    }
+
+    /* Overview section */
+    #leader {
+        margin: 2.5rem;
+    }
+
+}
+
+/* Media Query: laptops and desktops (992px and up) */
+@media screen and (min-width:992px) {
+
+    /* Overview section */
+    #timeline {
+        float: right;
+        width: 49%;
+        margin: 5px;
+    }
+
+    #overview {
+        float: left;
+        width: 49%;
+        margin: 5px;
+    }
+
+    #leader {
+        margin: 0;
     }
 }
