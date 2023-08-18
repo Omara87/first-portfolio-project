@@ -28,6 +28,12 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    font-size: 18px;
+    color: #553b2c;
+    text-align: center;
+}
+
 /* Header */
 header {
     background-color: #ffd3ba;
@@ -110,11 +116,6 @@ div>h2 {
     padding: 2px;
     width: 350px;
     margin: auto;
-}
-
-.timeline>h3 {
-    font-size: 18px;
-    color: #553b2c;
 }
 
 /* The vertical ruler */
@@ -205,6 +206,19 @@ div>h2 {
     background-color: #ffffea;
     position: relative;
     border-radius: 6px;
+}
+
+/* Overview section */
+#imageldm {
+    background: url(../images/Lorenzo_de_medici.jpeg) no-repeat top center/cover;
+    height: 40vw;
+    width: 40vw;
+    margin: 5px;
+    float: left;
+}
+
+.life {
+    margin-top: 5px;
 }
 
 /* Footer */
