@@ -1,3 +1,5 @@
+CSS
+
 /*Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
@@ -31,6 +33,12 @@ h2 {
 
 h3 {
     font-size: 18px;
+    color: #553b2c;
+    text-align: center;
+}
+
+h4 {
+    font-size: 16px;
     color: #553b2c;
     text-align: center;
 }
@@ -251,13 +259,31 @@ div>h2 {
 
 /* Patronage page */
 #bridge {
-    height: 150px;
+    height: 300px;
     width: 100%;
     background: url(../images/Ponte\ Vecchio.webp) no-repeat center center/cover;
 }
 
-#bridge-text {
-    border: none;
+#magi {
+    background: url(../images/Adoration\ of\ the\ magi.webp) no-repeat top center/cover;
+    height: 30vw;
+    width: 30vw;
+    margin: 5px;
+    float: right;
+}
+
+.patron {
+    font-size: 12px;
+    padding: 5px;
+    margin: 0 1rem;
+    text-align: justify;
+    line-height: 1rem;
+}
+
+/* Gallery Page */
+#photos img {
+    width: 100%;
+    line-height: 1em;
 }
 
 /* Footer */
