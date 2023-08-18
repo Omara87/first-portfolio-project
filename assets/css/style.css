@@ -211,8 +211,8 @@ div>h2 {
 /* Overview section */
 #imageldm {
     background: url(../images/Lorenzo_de_medici.jpeg) no-repeat top center/cover;
-    height: 40vw;
-    width: 40vw;
+    height: 30vw;
+    width: 30vw;
     margin: 5px;
     float: left;
 }
@@ -223,11 +223,10 @@ div>h2 {
 
 #youth {
     margin: 5px;
-    padding: 5px;
 }
 
 #youth ul {
-    font-size: 10px;
+    font-size: 12px;
     font-style: italic;
     padding: 3px;
     list-style-type: none;
