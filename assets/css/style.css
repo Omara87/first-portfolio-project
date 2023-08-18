@@ -249,6 +249,17 @@ div>h2 {
     line-height: 1rem;
 }
 
+/* Patronage page */
+#bridge {
+    height: 150px;
+    width: 100%;
+    background: url(../images/Ponte\ Vecchio.webp) no-repeat center center/cover;
+}
+
+#bridge-text {
+    border: none;
+}
+
 /* Footer */
 footer {
     background-color: #8baadf;
