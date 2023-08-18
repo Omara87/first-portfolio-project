@@ -332,15 +332,28 @@ footer div {
         float: right;
         width: 49%;
         margin: 5px;
+        position: relative;
     }
 
     #overview {
         float: left;
         width: 49%;
         margin: 5px;
+        position: relative;
     }
 
     #leader {
         margin: 0;
+    }
+}
+
+/* Media Query: 1200px and up */
+@media screen and (min-width: 1200px) {
+    #imageldm {
+        margin: 0 9rem;
+    }
+
+    #timeline {
+        margin: 8rem 5px;
     }
 }
