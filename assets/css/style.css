@@ -221,6 +221,19 @@ div>h2 {
     margin-top: 5px;
 }
 
+#youth {
+    margin: 5px;
+    padding: 5px;
+}
+
+#youth ul {
+    font-size: 10px;
+    font-style: italic;
+    padding: 3px;
+    list-style-type: none;
+    text-align: justify;
+}
+
 /* Footer */
 footer {
     background-color: #efc177;
