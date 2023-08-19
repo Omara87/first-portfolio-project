@@ -320,6 +320,12 @@ form {
     color: #553b2c;
 }
 
+button {
+    margin-bottom: 10px;
+    font-size: 1rem;
+    width: 100%;
+}
+
 /* Footer */
 footer {
     background-color: #8baadf;
