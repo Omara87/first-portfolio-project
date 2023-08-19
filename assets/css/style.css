@@ -293,10 +293,14 @@ div>h2 {
 /* Reading section */
 #skyline {
     background-image: url(../images/florence-skyline.png);
-    background-size: cover;
-    background-position: 75%;
-    padding: 20px 10% 0 10%;
-    flex-grow: 1;
+    height: 350px;
+    width: 100%;
+    opacity: 0.5;
+}
+
+#contact-form {
+    position: absolute;
+    bottom: 0;
 }
 
 /* Footer */
