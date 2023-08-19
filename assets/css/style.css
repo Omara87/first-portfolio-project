@@ -298,9 +298,18 @@ div>h2 {
     opacity: 0.5;
 }
 
-#contact-form {
-    position: absolute;
+#contact {
+    margin: 1rem;
+    padding: 5px;
+}
 
+#enquiries {
+    color: #553b2c;
+}
+
+#contact-form {
+    background-color: #c59038;
+    opacity: 0.5;
 }
 
 /* Footer */
