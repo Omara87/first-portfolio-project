@@ -300,7 +300,8 @@ div>h2 {
 
 /* The comments form */
 #contact {
-    margin: 0.25rem;
+    margin: 0.5rem;
+    padding: 0.5rem;
 }
 
 #enquiries {
@@ -389,7 +390,7 @@ footer div {
     }
 
     #logo {
-        font-size: 180%;
+        font-size: 150%;
         line-height: 60px;
         margin: 0.25rem 0.25rem;
     }
