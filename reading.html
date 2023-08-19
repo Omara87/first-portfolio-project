@@ -62,9 +62,8 @@
       <section>
         <div id="contact">
           <h4 id="enquiries">Please get in touch with any enquiries.</h4>
-          <div id="contact-form">
+          <div class="contact-form">
             <form>
-              <label for="first_name">First Name</label>
               <input
                 type="text"
                 name="first_name"
@@ -72,8 +71,9 @@
                 class="text-input"
                 required
               />
+              <label for="first_name">First Name</label>
               <br />
-              <label for="last_name">Last Name</label>
+
               <input
                 type="text"
                 name="last_name"
@@ -81,8 +81,8 @@
                 class="text-input"
                 required
               />
+              <label for="last_name">Last Name</label>
               <br />
-              <label for="email_address">Email Address</label>
               <input
                 type="email"
                 name="email_address"
@@ -90,6 +90,7 @@
                 class="text-input"
                 required
               />
+              <label for="email_address">Email Address</label>
               <br />
               <textarea
                 name="message"
@@ -98,6 +99,7 @@
                 class="text-input"
                 placeholder="Message Description"
                 required
+                style="width: 100%"
               ></textarea>
             </form>
           </div>

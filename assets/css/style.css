@@ -299,17 +299,24 @@ div>h2 {
 }
 
 #contact {
-    margin: 1rem;
-    padding: 5px;
+    margin: 0.25rem;
 }
 
 #enquiries {
     color: #553b2c;
 }
 
-#contact-form {
-    background-color: #c59038;
-    opacity: 0.5;
+.contact-form {
+    background-color: rgba(255, 217, 149, 0.5);
+}
+
+form {
+    padding: 0.5rem;
+}
+
+.text-input {
+    font-size: 14px;
+    color: #553b2c;
 }
 
 /* Footer */
