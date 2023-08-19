@@ -290,6 +290,15 @@ div>h2 {
     margin: 1rem;
 }
 
+/* Reading section */
+#skyline {
+    background-image: url(../images/florence-skyline.png);
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+
 /* Footer */
 footer {
     background-color: #8baadf;
