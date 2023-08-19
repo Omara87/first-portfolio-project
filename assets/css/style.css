@@ -278,20 +278,6 @@ div>h2 {
     line-height: 1rem;
 }
 
-/* Three image containers for patronage section */
-.column {
-    float: left;
-    width: 33.33%;
-    padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
-}
-
 /* Gallery Page */
 #photos img {
     width: 100%;
@@ -382,6 +368,20 @@ footer div {
     /* Overview section */
     #leader {
         margin: 2.5rem;
+    }
+
+    /* Three image containers for patronage section */
+    .column {
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+    }
+
+    /* Clear floats after image containers */
+    .row::after {
+        content: "";
+        clear: both;
+        display: table;
     }
 
     /* Gallery */
