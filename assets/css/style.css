@@ -262,12 +262,8 @@ div>h2 {
     background: url(../images/Ponte\ Vecchio.webp) no-repeat center center/cover;
 }
 
-#magi {
-    background: url(../images/Adoration\ of\ the\ magi.webp) no-repeat top center/cover;
-    height: 30vw;
-    width: 30vw;
-    margin: 5px;
-    float: right;
+#head {
+    padding-top: 10px;
 }
 
 .patron {
@@ -276,6 +272,11 @@ div>h2 {
     margin: 0 1rem;
     text-align: justify;
     line-height: 1rem;
+}
+
+#patronage {
+    padding: 5px;
+    margin: 5px;
 }
 
 /* Gallery Page */
