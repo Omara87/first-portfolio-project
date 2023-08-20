@@ -45,6 +45,10 @@ p {
     line-height: 1.5rem;
 }
 
+.hidden-heading {
+    display: none;
+}
+
 /* Header */
 header {
     background-color: #ffd3ba;
