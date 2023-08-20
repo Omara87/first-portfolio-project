@@ -32,10 +32,35 @@ __Lorenzo de'Medici__
 
 ![Lorenzo](https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/overview-page.png)
 
+__Footer__
+
+- The footer section provides links to social media sites that will open in a new tab to provide easy navigation.
+
+![Footer](https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/footer.png)
+
 __Patronage__
 
 - The patronage page provides the user with more information about the specific aspect of Lorenzo's patronage. It is intended to provide an overview to engage the user and intice them to discover more for themselves.
 - The flow of the page is to provide the user with an imaee followed by the relevant information about the artist who was commissioned. The use of columns enables the user to easily view the material.
 
 ![Patronage](https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/patronage-page.png)
-1[Patronage](https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/patronage-column.png)
+![Patronage](https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/patronage-column.png)
+
+__Gallery__
+
+- The gallery provides a selection of different images that are related the Lorenzo de'Medici and Florence. This enables the user to look visually and identify different areas related to Florence and the subject matter.
+
+![Gallery](https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/gallery.png)
+
+__Enquiries__
+
+- This page provides the user with the ability to comment upon anything in the website that has engaged them, as well as provide contact details to find out more about the subject matter.
+- The design of this page was intended to mimic the colors of the Florentine skyline.
+
+![Enquiries](https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/enquiries-page.png)
+
+__Additional features__
+
+- Within the enquiries page, it is intended to add book covers and titles of books for further reading related to the topic, with links that will take the user to buy these books. 
+- Within the patronage section, it is intended to provide the user with links to research documents that have been conducted upon the topic of Medici patronage that will appear in a new tab, providing the user with further free academic research.
+- Within the gallery page it is intended that when the user scrolls over the images, they will enlarge with text explaining more about that image and increasing user interactivity.
