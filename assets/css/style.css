@@ -211,7 +211,7 @@ div>h2 {
 
 /* The actual content */
 .content {
-    padding: 15px;
+    padding: 8px;
     background-color: #ffffea;
     position: relative;
     border-radius: 6px;
@@ -240,7 +240,7 @@ div>h2 {
 }
 
 #youth ul {
-    font-size: 12px;
+    font-size: 16px;
     padding: 5px;
     list-style-type: none;
     text-align: justify;
@@ -254,7 +254,7 @@ div>h2 {
 }
 
 #leader ul {
-    font-size: 12px;
+    font-size: 16px;
     padding: 5px;
     list-style-type: circle solid;
     text-align: justify;
@@ -341,12 +341,13 @@ footer {
 }
 
 footer div {
-    width: 100%;
     display: flex;
     align-items: center;
     font-size: 90%;
     padding: 5px;
     color: #6c5428;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #copyright {
@@ -357,6 +358,7 @@ footer div {
     padding: 1em;
     display: inline-flex;
     list-style-type: none;
+    margin-left: auto;
 }
 
 #social-networks i {
@@ -452,7 +454,7 @@ footer div {
     #timeline {
         float: right;
         width: 45%;
-        margin: 1.5rem;
+        margin: 5rem 1.5rem;
         position: relative;
     }
 
@@ -479,6 +481,6 @@ footer div {
 /* Media Query: 1200px and up */
 @media screen and (min-width: 1200px) {
     #timeline {
-        margin: 8rem 4rem 8rem 0;
+        margin: 8rem 4rem 0 0;
     }
 }
