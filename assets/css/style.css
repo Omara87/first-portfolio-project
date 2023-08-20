@@ -114,8 +114,8 @@ main {
 
 /* The Timeline Section */
 #timeline {
-    padding: 5px;
-    margin: 5px;
+    padding: 10px;
+    margin: 1.5rem;
 }
 
 div>h2 {
@@ -217,6 +217,11 @@ div>h2 {
 }
 
 /* Overview section */
+#overview {
+    padding: 10px;
+    margin: 1.5rem;
+}
+
 #imageldm {
     background: url(../images/Lorenzo_de_medici.jpeg) no-repeat top center/cover;
     height: 30vw;
@@ -445,15 +450,15 @@ footer div {
     /* Overview section */
     #timeline {
         float: right;
-        width: 49%;
-        margin: 5px;
+        width: 45%;
+        margin: 1.5rem;
         position: relative;
     }
 
     #overview {
         float: left;
-        width: 49%;
-        margin: 5px;
+        width: 45%;
+        margin: 1.5rem;
         position: relative;
     }
 
@@ -477,6 +482,6 @@ footer div {
     }
 
     #timeline {
-        margin: 8rem 5px;
+        margin: 8rem 4rem 8rem 0;
     }
 }
