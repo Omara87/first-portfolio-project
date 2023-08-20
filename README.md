@@ -85,3 +85,30 @@ __Additional features__
 
 - __Devices__ - The website has been viewed and tested on a range of devices including Desktop, Laptop, Iphone 6/7/8/X, Ipad and Samsumg Galaxy Tab, retaining structure and functionality.
 - __Browsers__ - The website has been viewed and tested on a range of browsers including Google Chrome, Internet Explorer and Firefox, retaining structure and functionality.
+
+### Bugs
+
+- __ Enquiries__ - The background image within the enquiries page was unresponsive based on device size. Although this was resolved, there are still some issues on certain devices, where the height does not match the screen size.
+- __Form__ - The form appears to be unresponsive when a field is required. Unsure of how to resolve the issue. 
+
+### Validator Testing
+
+- HTML
+  - Errors were returned on initial testing and then fixed. No errors were returned on the final testing of HTML throuhg the official [W3C validator](https://validator.w3.org/nu/#textarea)
+- CSS
+  - No errors were returned on testing when through the official [jigsaw validator](https://jigsaw.w3.org/css-validator/validator)
+
+## Deployment
+
+### Github Pages
+
+This project has been deployed to Github Pages using the following steps:
+
+1. Log in to Github and find the Github Repository.
+1. Locate the repository settings.
+1. Locate the GitHub Pages Section.
+1. Below "Source", click the dropdown headed "None" and select the "Master Branch" and then "Save".
+1. Once the page refreshes, scroll back down to the same section, and the site link is now available.
+
+## Credits
+
