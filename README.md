@@ -112,3 +112,28 @@ This project has been deployed to Github Pages using the following steps:
 
 ## Credits
 
+### Content
+
+- The text for the landing page was taken from three websites about
+    - [Lorenzo](https://themedicifamily.com/lorenzo-de-medici)
+    - [Renaissance](<https://www.history.com/topics/renaissance/medici-family>)
+    - [Art](https://www.italianartsociety.org/tag/lorenzo-de-medici/)
+
+- The content regarding patronage and the Medici influnce was taken from an MA History essay entitled _‘Every analysis of Florentine Society ought to end up as a discussion of the role of patronage.’ Do you agree?_ written in August 2020 by myself.
+
+### Media 
+
+- The landing image of the Medici chapel, the Ponte Vecchio bridge banner in the patronage section, Botticelli's Adoration of the Magi in the patronage section and Michelangelo's David in the gallery were taken by myself.
+
+The following image links provide the URL source for the remaining images.
+- [Lorenzo Portrait](https://themedicifamily.com/lorenzo-de-medici)
+- [Verrocchio David](https://cdn.britannica.com/35/184835-050-83701EA6/statue-David-contrapposto-pose-Andrea-del-Verrocchio.jpg)
+- [Centaurs Battle](www.michelangeloexperience.com/wp-content/uploads/2010/09/battle-of-centaurs-michelangelo-sculpture-sm.jpg)
+- [Clarice](https://upload.wikimedia.org/wikipedia/commons/e/ec/Clarice_Orsini_de_Medici.JPG)
+- [Medici Palace](http://www.florencewebguide.com/palazzo-medici-riccardi.html)
+- [Leo X](https://assets.editorial.aetnd.com/uploads/2009/11/medicifamily.jpg?width=1920&height=960&crop=1920%3A960%2Csmart&quality=75)
+- [Pazzi Conspiracy](https://cdn.britannica.com/51/220851-050-BE8A5E41/The-Pazzi-Conspiracy-by-Stefan-Ussi.jpg)
+- [Day of Judgment](https://blog.artsper.com/wp-content/uploads/2022/06/4-1-569x644.jpg)
+- [San Marco](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/81/86/15/caption.jpg?w=1200&h=-1&s=1)
+- [Temptations](https://upload.wikimedia.org/wikipedia/commons/0/0d/05_Tentaciones_de_Cristo_%28Botticelli%29.jpg)
+- [Florence](https://media.timeout.com/images/105879414/750/422/image.jpg)
