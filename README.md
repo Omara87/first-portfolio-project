@@ -6,9 +6,18 @@ The live project can be viewed [here](https://omara87.github.io/first-portfolio-
 
 ![alt text](https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/website-mockup.png)
 
-## Features
+## Design
 
-The website featuers four different pages that provide the user with information about Lorenzo de'Medici, which can be navigated between.
+- ### Wireframes
+
+  - [Home Mobile](https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/Home%20(Mobile).jpg)
+  - [Gallery Mobile](https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/Mobile%20wireframes.jpg)
+  - [Home Desktop](https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/Home%20(desktop).jpg)
+  - [Gallery Desktop](https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/Desktop%20wireframes.jpg)
+
+### Colour scheme
+
+The colour scheme used in the design of the website are primarily to reflect the colours of the buildings in Florence. Therefore, there are various shades of peaches, browns and oranges. The colour palletes were generated using [Paletton](https://paletton.com/#uid=70i0z0kleqtbzEKgVuIpcmGtdhZ)
 
 ### Existing Features
 
@@ -19,9 +28,9 @@ __Navigation Bar__
 
 ![Nav Bar](https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/navigation-bar.png)
 
-__The Banner Image__
+__The Landing Page__
 
-- The banner image provides the user with an engaging and bright coloured image that is intended to encourage them to delve in to the website.
+- The landing page provides the user with an engaging and bright coloured image that is intended to encourage them to delve in to the website.
 
 ![Banner Image](https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/Medici_Chapel.jpg)
 
@@ -64,3 +73,15 @@ __Additional features__
 - Within the enquiries page, it is intended to add book covers and titles of books for further reading related to the topic, with links that will take the user to buy these books. 
 - Within the patronage section, it is intended to provide the user with links to research documents that have been conducted upon the topic of Medici patronage that will appear in a new tab, providing the user with further free academic research.
 - Within the gallery page it is intended that when the user scrolls over the images, they will enlarge with text explaining more about that image and increasing user interactivity.
+
+## Testing
+
+### Functionality
+
+- __Links__ - The links in the footer have been tested to ensure that each other opens a link in a new tab. 
+- __Menu__ - The navigation bar has been tested to ensure that each ot the other pages opens when clicked upon and you return to the landing page when clicked on the relevant title. It also provides an ellipsis icon when being used on smaller devices to ensure user can navigate between pages.
+
+### Compatability
+
+- __Devices__ - The website has been viewed and tested on a range of devices including Desktop, Laptop, Iphone 6/7/8/X, Ipad and Samsumg Galaxy Tab, retaining structure and functionality.
+- __Browsers__ - The website has been viewed and tested on a range of browsers including Google Chrome, Internet Explorer and Firefox, retaining structure and functionality.
