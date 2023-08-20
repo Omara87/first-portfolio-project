@@ -23,11 +23,19 @@ __The Banner Image__
 
 - The banner image provides the user with an engaging and bright coloured image that is intended to encourage them to delve in to the website.
 
-![Banner Image]()
+![Banner Image](https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/Medici_Chapel.jpg)
 
 __Lorenzo de'Medici__
 
 - The initial page that the user experiences is an overview of who Lorenzo de'Medici is. This is done through the use of a timeline with key dates, as well as listed factual information.
 - This page will provide the user with an understanding of this historical figure and hopefully engaged their interest to want to discover more about his achievements.
 
-![Lorenzo]()
+![Lorenzo](https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/overview-page.png)
+
+__Patronage__
+
+- The patronage page provides the user with more information about the specific aspect of Lorenzo's patronage. It is intended to provide an overview to engage the user and intice them to discover more for themselves.
+- The flow of the page is to provide the user with an imaee followed by the relevant information about the artist who was commissioned. The use of columns enables the user to easily view the material.
+
+![Patronage](https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/patronage-page.png)
+1[Patronage](https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/patronage-column.png)
