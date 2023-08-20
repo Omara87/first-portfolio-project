@@ -284,6 +284,7 @@ div>h2 {
 #photos img {
     width: 100%;
     line-height: 1em;
+    padding: 3px;
 }
 
 #photos {
@@ -458,10 +459,6 @@ footer div {
 
     #leader {
         margin: 0;
-    }
-
-    #photos {
-        column-count: 4;
     }
 
     /* Reading */
