@@ -7,3 +7,12 @@ The live project can be viewed [here]. (<https://omara87.github.io/first-portfol
 ! [alt text] (<https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/website-mockup.png>)
 
 ## Features
+
+The website featuers four different pages that provide the user with information about Lorenzo de'Medici, which can be navigated between.
+
+### Existing Features
+
+-__Navigation Bar__
+
+ -The navigation bar features across all of the pages on the website and is fully responsive so that users can access on all devices.
+ -The navigation bar becomes a vertical ellipsis on smaller devices to enable content to fit and when clicked upon, brings up the links for the other pages.
