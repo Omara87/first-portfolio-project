@@ -119,10 +119,11 @@ main {
 }
 
 div>h2 {
-    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
     border: solid 5px #c59038;
-    padding: 2px;
-    width: 350px;
+    padding: 0.5rem;
     margin: auto;
 }
 
@@ -210,7 +211,7 @@ div>h2 {
 
 /* The actual content */
 .content {
-    padding: 5px;
+    padding: 15px;
     background-color: #ffffea;
     position: relative;
     border-radius: 6px;
@@ -226,8 +227,8 @@ div>h2 {
     background: url(../images/Lorenzo_de_medici.jpeg) no-repeat top center/cover;
     height: 30vw;
     width: 30vw;
-    margin: 5px;
-    float: left;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .life {
@@ -477,10 +478,6 @@ footer div {
 
 /* Media Query: 1200px and up */
 @media screen and (min-width: 1200px) {
-    #imageldm {
-        margin: 0 9rem;
-    }
-
     #timeline {
         margin: 8rem 4rem 8rem 0;
     }
