@@ -266,7 +266,7 @@ div>h2 {
 #leader ul {
     font-size: 16px;
     padding: 5px;
-    list-style-type: circle solid;
+    list-style-type: disc;
     text-align: justify;
     margin: 0 1rem;
     line-height: 1.5rem;
@@ -333,7 +333,7 @@ div>h2 {
 #contact {
     margin: auto;
     padding: 0.25rem;
-    border: rgba(73, 125, 131, 0.5) solid 5px;
+    border: rgba(171, 99, 53, 0.5) solid 5px;
     border-radius: 20px;
     background-color: rgba(73, 125, 131, 0.5)
 }
@@ -481,7 +481,7 @@ footer div {
     #contact {
         margin: auto;
         padding: 0.5rem;
-        border: rgba(73, 125, 131, 0.5) solid 10px;
+        border: rgba(171, 99, 53, 0.5) solid 10px;
         border-radius: 20px;
         background-color: rgba(73, 125, 131, 0.5)
     }
