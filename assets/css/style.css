@@ -278,21 +278,21 @@ div>h2 {
     font-family: CrimsonTree, serif;
     background-color: #f4e3ca;
     padding: 1rem;
-    color: #e37f36;
+    color: #b28d48;
 }
 
 .artist {
     font-size: 20px;
     margin: 0.5rem;
     background-color: #f5e3ca;
-    color: #e37f37;
+    color: #b28d48;
     padding: 1rem;
 }
 
 .patron {
     font-size: 16px;
-    padding: 5px;
-    margin: 0 1rem;
+    padding: 0.5rem;
+    margin: 1rem;
     text-align: justify;
 }
 
