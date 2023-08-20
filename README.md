@@ -121,7 +121,7 @@ This project has been deployed to Github Pages using the following steps:
 
 - The content regarding patronage and the Medici influnce was taken from an MA History essay entitled _‘Every analysis of Florentine Society ought to end up as a discussion of the role of patronage.’ Do you agree?_ written in August 2020 by myself.
 
-### Media 
+### Media
 
 - The landing image of the Medici chapel, the Ponte Vecchio bridge banner in the patronage section, Botticelli's Adoration of the Magi in the patronage section and Michelangelo's David in the gallery were taken by myself.
 
@@ -137,3 +137,12 @@ The following image links provide the URL source for the remaining images.
 - [San Marco](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/81/86/15/caption.jpg?w=1200&h=-1&s=1)
 - [Temptations](https://upload.wikimedia.org/wikipedia/commons/0/0d/05_Tentaciones_de_Cristo_%28Botticelli%29.jpg)
 - [Florence](https://media.timeout.com/images/105879414/750/422/image.jpg)
+
+### Code
+
+- [Code Institute](https://www.codeinstitute.net/) - Code learnt during the Full Stack Web Developer course has been implemented in this project.
+- [W3 Schools](https://www.w3schools.com/howto/howto_css_timeline.asp) - Code used to help create the CSS for styling the timeline.
+
+### Acknowledgements
+
+- Okwudiri Okoro - Mentor
