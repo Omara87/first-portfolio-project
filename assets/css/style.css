@@ -270,7 +270,10 @@ div>h2 {
 }
 
 #head {
-    padding-top: 10px;
+    font-size: 30px;
+    font-family: CrimsonTree, serif;
+    background-color: #f4e3ca;
+    padding: 1rem;
 }
 
 .patron {
@@ -282,8 +285,8 @@ div>h2 {
 }
 
 #patronage {
-    padding: 5px;
-    margin: 5px;
+    padding: 0.5rem;
+    margin: 1rem;
 }
 
 /* Gallery Page */
