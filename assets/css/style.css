@@ -311,33 +311,40 @@ div>h2 {
 /* The comments form */
 #contact {
     margin: auto;
-    padding: 0.5rem;
-    border: #c59038 solid 10px;
+    padding: 0.25rem;
+    border: rgba(73, 125, 131, 0.5) solid 5px;
     border-radius: 20px;
-    background-color: rgb(190 115 61);
+    background-color: rgba(73, 125, 131, 0.5)
 }
 
 #enquiries {
-    color: #553b2c;
+    color: #ffffea;
+    font-size: 16px;
 }
 
-.contact-form {
-    background-color: rgb(190 115 61);
+label {
+    color: #ffffea;
 }
 
 form {
     padding: 0.5rem;
+    margin: 0.5rem;
 }
 
 .text-input {
     font-size: 14px;
     color: #553b2c;
+    padding: 5px;
+    margin: 5px;
 }
 
 button {
     margin-bottom: 10px;
     font-size: 1rem;
     width: 100%;
+    background-color: #f6b876;
+    opacity: 0.8;
+    color: #553b2c;
 }
 
 /* Footer */
@@ -447,6 +454,48 @@ footer div {
         background: url(../images/florence-skyline.png) no-repeat center center/cover;
         height: 600px;
         width: 100%;
+    }
+
+    /* Contact form */
+    #contact {
+        margin: auto;
+        padding: 0.5rem;
+        border: rgba(73, 125, 131, 0.5) solid 10px;
+        border-radius: 20px;
+        background-color: rgba(73, 125, 131, 0.5)
+    }
+
+    #enquiries {
+        color: #ffffea;
+        font-size: 24px;
+        margin: 1rem;
+        padding: 1rem;
+    }
+
+    label {
+        color: #ffffea;
+        font-size: 20px;
+    }
+
+    form {
+        padding: 0.5rem;
+        margin: 0.5rem;
+    }
+
+    .text-input {
+        font-size: 14px;
+        color: #553b2c;
+        padding: 5px;
+        margin: 5px;
+    }
+
+    button {
+        margin-bottom: 10px;
+        font-size: 2rem;
+        width: 100%;
+        background-color: #f6b876;
+        opacity: 0.8;
+        color: #553b2c;
     }
 
 }
