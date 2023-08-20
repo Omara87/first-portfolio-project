@@ -14,5 +14,12 @@ The website featuers four different pages that provide the user with information
 
 -__Navigation Bar__
 
- -The navigation bar features across all of the pages on the website and is fully responsive so that users can access on all devices.
- -The navigation bar becomes a vertical ellipsis on smaller devices to enable content to fit and when clicked upon, brings up the links for the other pages.
+- The navigation bar features across all of the pages on the website and is fully responsive so that users can access on all devices.
+
+- The navigation bar becomes a vertical ellipsis on smaller devices to enable content to fit and when clicked upon, brings up the links for the other pages.
+
+! [Nav Bar] (https://github.com/Omara87/first-portfolio-project/blob/main/assets/images/navigation-bar.png)
+
+-__The Banner Image__
+
+- The banner image provides the user with an engaging and bright coloured image that is intended to encourage them to delve in to the website.
