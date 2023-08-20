@@ -132,6 +132,7 @@ div>h2 {
     margin: auto;
 }
 
+/* Code pertaining to the style of the timeline obtained from w3schools.com/howto/howto_css_timeline.asp */
 /* The vertical ruler */
 .timeline {
     position: relative;
